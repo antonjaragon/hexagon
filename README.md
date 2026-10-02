@@ -43,7 +43,7 @@ Build on your Mac (your M1 is suitable). Run setup, open `ios/Runner.xcworkspace
 
 1. Tap the camera icon / **Take a photo**. An existing photo can also be selected.
 2. Recognition suggests six board landmarks. Check that the markers are at the centers of the six OUTERMOST CELLS, not at the plastic rim. They run clockwise: top left, top right, right, bottom right, bottom left, left.
-3. If incorrect, tap **Mark 6 centers**, then mark them on the photo. The numbered board below is your guide.
+3. If incorrect, tap **mark 6 corners**, then mark them on the photo. The numbered board below is your guide.
 4. Tap **Recognize** and compare the recognized board preview to the physical puzzle.
 5. If colors are confused, select the piece color, tap **Sample color**, then tap a colored area of that piece in the photo. Recognize again. Avoid glare and black pegs. The three blue pieces particularly benefit from shape-aware recognition and, when needed, calibration.
 6. Tap **Use this recognized board** to enter the companion screen.

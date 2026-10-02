@@ -441,7 +441,7 @@ class _PhotoReviewState extends State<PhotoReview> {
                           message = 'Tap center 1: top left extreme cell.';
                         });
                       },
-                child: const Text('Mark 6 centers'),
+                child: const Text('mark 6 corners'),
               ),
               FilledButton(
                 onPressed: busy || corners.length != 6 ? null : scan,
