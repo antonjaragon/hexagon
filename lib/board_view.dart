@@ -7,18 +7,18 @@ import 'piece_strokes.dart';
 import 'recognition.dart' show xy, canonical;
 
 const pieceColors = <String, Color>{
-  'light blue': Color(0xff56bce4),
-  'medium blue': Color(0xff219bd1),
-  'dark blue': Color(0xff3755cf),
-  'turquoise': Color(0xff39ccb0),
-  'light green': Color(0xffa5d945),
-  'dark green': Color(0xff32a468),
-  'yellow': Color(0xfff1cb46),
-  'orange': Color(0xfff49145),
-  'red': Color(0xffeb5369),
-  'pink': Color(0xffe776b9),
-  'purple': Color(0xffa571d1),
-  'brown': Color(0xffb65c70),
+  'light blue': Color(0xff00CFFF),
+  'medium blue': Color(0xff008FFF),
+  'dark blue': Color(0xff183CFF),
+  'turquoise': Color(0xff00EFC2),
+  'light green': Color(0xffA6FF00),
+  'dark green': Color(0xff00C853),
+  'yellow': Color(0xffFFE600),
+  'orange': Color(0xffFF7100),
+  'red': Color(0xffFF1538),
+  'pink': Color(0xffFF00AD),
+  'purple': Color(0xffB600ED),
+  'brown': Color(0xffAD1747),
 };
 
 class BoardView extends StatelessWidget {
